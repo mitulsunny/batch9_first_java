@@ -38,7 +38,7 @@ public class Browser {
 	 public void login() {
 			driver.findElement(By.xpath("//*[@id=\"ftco-nav\"]/ul/li[7]/a")).click();
 			driver.findElement(By.id("username")).sendKeys("sayeedins@yahoo.com");
-			driver.findElement(By.id("password")).sendKeys("SAy738973");
+			driver.findElement(By.id("password")).sendKeys(".........");
 			driver.findElement(By.id("login_button")).click();
 		}
 	 @Test(priority=3)
