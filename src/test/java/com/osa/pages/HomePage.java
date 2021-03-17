@@ -4,7 +4,7 @@ public class HomePage {
 	
 	public static void main(String[] args) {
 		
-		System.out.println("I wish to learn how to use gitHub");
+		System.out.println("I wish to learn how to use gitHub and push");
 		
 	}
 	
